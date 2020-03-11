@@ -1,5 +1,5 @@
 import React from 'react';
-import SayHello from './components/greetings';
+import SayHello from './components/SayHello';
 import SayHowdy from './components/SayHowdy';
 
 function App() {
