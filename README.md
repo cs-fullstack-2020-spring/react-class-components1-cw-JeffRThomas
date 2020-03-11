@@ -1,4 +1,6 @@
 # Class components
+#### I removed your netflix component in App.js bc it was throwing an error. Otherwise looks great! Be sure to push up working code and if you've got an error try to resolve it or comment it out in your last push.
+#### Score : 5/5
 
 # React Introduction Class Components 1 Classwork
 
