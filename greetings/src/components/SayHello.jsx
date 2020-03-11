@@ -9,5 +9,4 @@ class SayHello extends Component {
         )
     }
 };
-
 export default SayHello;
